@@ -1,3 +1,9 @@
 body {
   background-color: cyan;
 }
+img {
+  width: 65%;
+}
+td {
+  text-align: center;
+}
